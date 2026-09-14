@@ -6,7 +6,6 @@ import Portfolio from './components/Portfolio/portfolio.jsx'
 import Contact from './components/contact/contact.jsx'
 import Footer from './components/footer/footer.jsx'
 import './App.css'
-import { useEffect } from 'react'
 
 const App = () => {
   return (
